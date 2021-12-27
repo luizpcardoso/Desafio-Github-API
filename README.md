@@ -5,4 +5,6 @@ Esta aplicação utiliza o endPoint da API que faz a buscar de usuários da plat
 
 Também é possívem clicar sobre cada card e visualizar um modal com maiores detalhes.
 
+Link da aplicação:   https://desafio-github-api.vercel.app/
+
 
